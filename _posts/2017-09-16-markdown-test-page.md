@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Markdown Test Page"
+title: "Vitals"
 tags: tag1 tag3
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
 
-# <a name="top"></a>Markdown Test Page
+# <a name="top"></a>Vitals
 
 * [Headings](#Headings)
 * [Paragraphs](#Paragraphs)
