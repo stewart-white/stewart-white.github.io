@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Vitals"
+title: "me.txt"
 tags: tag1 tag2 tag3 tag4
 ---
 
